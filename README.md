@@ -1,0 +1,2 @@
+I have 10+ years of experience in system and network administration and monitoring. I have a proven track record of finding and solving issues, and I have demonstrated my self-taught, resilient skills and a high tendency to automate tasks.
+I have promoted and implemented open-source solutions such as Zabbix, Proxmox, and Pfsense, and I have obtained the Zabbix Specialist and Azure Administrator certifications. I am always looking to learn and take on new challenges and projects.
